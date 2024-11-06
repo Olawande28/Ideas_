@@ -1,3 +1,4 @@
 # Ideas_
-Codes that can be useful to society 
+A bunch of codes that can be useful
 To run this codes, you can use google colab or conda or whatever programming application you use
+    
